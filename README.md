@@ -18,7 +18,6 @@ Share a board link, move cards across five columns, assign work to people, and s
 
 ```
 frontend/   Next.js app (UI, API, tests)
-AGENTS.md   Original project brief
 ```
 
 ## Quick start
