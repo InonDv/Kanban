@@ -26,9 +26,4 @@ yarn-error.log*
 .pnpm-debug.log*
 .vercel
 
-# Local / course docs (keep on disk, do not upload)
-AGENTS.md
-frontend/AGENTS.md
-frontend/README.md
-frontend/CLAUDE.md
-community_contributions/
+
