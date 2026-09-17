@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Test / tooling
+frontend/coverage/
+frontend/test-results/
+frontend/playwright-report/
+frontend/blob-report/
+frontend/playwright/.cache/
+*.tsbuildinfo
+
+# Env and OS
+.env*
+.DS_Store
+*.pem
+
+# Debug / deploy
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.vercel
+
+# Local / course docs (keep on disk, do not upload)
+AGENTS.md
+frontend/AGENTS.md
+frontend/README.md
+frontend/CLAUDE.md
+community_contributions/
